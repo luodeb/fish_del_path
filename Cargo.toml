@@ -2,5 +2,8 @@
 name = "fish_del_path"
 version = "0.1.0"
 edition = "2024"
+description = "A tool to interactively delete paths from fish shell's fish_user_paths"
+license = "MIT"
+authors = ["Debin Luo <luodeb@outlook.com>"]
 
 [dependencies]
